@@ -7,6 +7,7 @@
     "paths": {
       "_/*": ["src/*"],
       "_types/*": ["src/types/*"],
+      "_utils/*": ["src/utils/*"],
       "_tests/*": ["tests/*"]
     },
     "typeRoots": [
